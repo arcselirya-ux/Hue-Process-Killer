@@ -1,0 +1,14 @@
+C:\Users\Elirya\Downloads\Hue\Hue\bin\Release\net8.0\Hue.exe
+C:\Users\Elirya\Downloads\Hue\Hue\bin\Release\net8.0\Hue.deps.json
+C:\Users\Elirya\Downloads\Hue\Hue\bin\Release\net8.0\Hue.runtimeconfig.json
+C:\Users\Elirya\Downloads\Hue\Hue\bin\Release\net8.0\Hue.dll
+C:\Users\Elirya\Downloads\Hue\Hue\bin\Release\net8.0\Hue.pdb
+C:\Users\Elirya\Downloads\Hue\Hue\obj\Release\net8.0\Hue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elirya\Downloads\Hue\Hue\obj\Release\net8.0\Hue.AssemblyInfoInputs.cache
+C:\Users\Elirya\Downloads\Hue\Hue\obj\Release\net8.0\Hue.AssemblyInfo.cs
+C:\Users\Elirya\Downloads\Hue\Hue\obj\Release\net8.0\Hue.csproj.CoreCompileInputs.cache
+C:\Users\Elirya\Downloads\Hue\Hue\obj\Release\net8.0\Hue.dll
+C:\Users\Elirya\Downloads\Hue\Hue\obj\Release\net8.0\refint\Hue.dll
+C:\Users\Elirya\Downloads\Hue\Hue\obj\Release\net8.0\Hue.pdb
+C:\Users\Elirya\Downloads\Hue\Hue\obj\Release\net8.0\Hue.genruntimeconfig.cache
+C:\Users\Elirya\Downloads\Hue\Hue\obj\Release\net8.0\ref\Hue.dll
